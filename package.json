@@ -1,0 +1,27 @@
+{
+  "name": "vue-tools-plugins",
+  "version": "1.0.0",
+  "description": "Encapsulation of common methods commonly used in developing Vue projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cench/vue-tool-plugin.git"
+  },
+  "keywords": [
+    "vue",
+    "prototype",
+    "function",
+    "and",
+    "filter",
+    "plugins"
+  ],
+  "author": "cench/season",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cench/vue-tool-plugin/issues"
+  },
+  "homepage": "https://github.com/cench/vue-tool-plugin#readme"
+}
