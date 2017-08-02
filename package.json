@@ -1,6 +1,6 @@
 {
   "name": "vue-tools-plugins",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Encapsulation of common methods commonly used in developing Vue projects",
   "main": "index.js",
   "scripts": {
